@@ -22,7 +22,8 @@ This project is an **HR Analytics Dashboard** designed to provide insights into 
 *Add screenshots of your dashboard here.*
 
 ```markdown
-![Dashboard Screenshot](images/dashboard.png)
+<img width="1057" height="582" alt="Screenshot 2026-06-04 165654" src="https://github.com/user-attachments/assets/0bdac72d-fd1a-49db-b30d-137154f73daa" />
+
 ```
 
 ## Dataset
